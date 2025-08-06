@@ -82,5 +82,4 @@ This project is a personal data analysis of UK road accident data, created using
   - Insights & recommendations
 
 
-![Accidents by Month](images/accidents_by_month.png)
-![Road Surface Severity](images/surface_severity.png)
+
